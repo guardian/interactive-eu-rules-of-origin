@@ -57,14 +57,18 @@
     "@babel/plugin-transform-runtime": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
     "@babel/runtime": "^7.16.3",
+    "@turf/nearest-point-on-line": "^6.5.0",
+    "@turf/turf": "^6.5.0",
     "autoprefixer": "^10.0.1",
     "babel-loader": "^8.2.3",
     "babel-plugin-module-resolver": "^4.1.0",
     "babel-plugin-transform-import-bangtext-node": "^0.1.4",
     "gulp-replace": "^1.0.0",
+    "maplibre-gl": "^2.1.9",
     "mkdirp": "^0.5.1",
     "raw-loader": "^4.0.2",
     "terser-webpack-plugin": "^4.2.2",
+    "turf-point": "^2.0.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "unfetch": "^4.2.0"
   }

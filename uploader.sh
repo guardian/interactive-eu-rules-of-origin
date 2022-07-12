@@ -1,0 +1,1 @@
+aws s3 sync "./assets/tiles" s3://gdn-cdn/maptiles/pbf-tiles-test --acl public-read --cache-control max-age=60 --content-encoding gzip --content-type application/x-protobuf

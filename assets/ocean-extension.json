@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ocean-extension",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -40.767907915477778, 42.576663957326147 ], [ -40.767907915477778, 63.188946223178228 ], [ -10.79545499956199, 63.164058720963901 ], [ -10.79545499956199, 42.55177645511182 ], [ -40.767907915477778, 42.576663957326147 ] ] ] ] } }
+]
+}

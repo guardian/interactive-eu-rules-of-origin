@@ -5,20 +5,21 @@
 }
 
 .scroll-wrapper {
-    @include mq(tablet) {
-        width: 740px;
+   /* @include mq(tablet) {
+        //width: 740px;
     }
 
     @include mq(desktop) {
-        width:960px;
+        //width:960px;
     }
 
     @include mq(leftCol) {
-        width: 1140px;
+        //width: 1140px;
     }
     @include mq(wide) {
-        width: 1260px;
-    }
+        
+    }*/
+    width: 100%;
     box-sizing: border-box;
     margin: auto;
     background-color:#fff;

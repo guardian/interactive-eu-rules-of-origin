@@ -1,0 +1,84 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Cork",
+					"sov_a3": "IRE",
+					"country_name": "Ireland",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [-8.276459663898624, 51.805225623054284 ]
+			}
+		},{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Limerick",
+					"sov_a3": "IRE",
+					"country_name": "Ireland",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [-8.591468407700162, 52.638103200998948]
+			}
+		},{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Le Havre",
+					"sov_a3": "FRA",
+					"country_name": "France",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [0.10083504526421734, 49.49337682950937]
+			}
+		},{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Tilbury",
+					"sov_a3": "GBR",
+					"country_name": "UK",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [0.5149243635920676, 51.494536402094504]
+			}
+		},{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Belfast",
+					"sov_a3": "GBR",
+					"country_name": "UK",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [-5.9301204, 54.5972883]
+			}
+		},{
+			"type": "Feature",
+			"properties": {
+					"featurecla": "Populated place",
+					"name": "Derry",
+					"sov_a3": "GBR",
+					"country_name": "UK",
+					"continent": "Europe"
+			},
+			"geometry": {
+					"type": "Point",
+					"coordinates": [-7.303198536241776, 54.9938737938915]
+			}
+		}
+	]
+}
